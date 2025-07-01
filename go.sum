@@ -1,0 +1,6 @@
+github.com/dbugapp/dbug-go v0.1.1 h1:UI2s+sGd8Z3abSWErbnEN2PVSpLK8txuHPNhfDDnwOg=
+github.com/dbugapp/dbug-go v0.1.1/go.mod h1:ZHmd581bPQdeRmmY4ebuh2WLcOVOJVeN4MSWLXKD+zU=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/vulncheck-oss/sdk-go-v2/vulncheck v0.0.0-20250701160439-9d17a3becb11 h1:TvWvQu8X+Foyw9w614kH+a3LB8XuDV1cGqDOFNt4yxo=
+github.com/vulncheck-oss/sdk-go-v2/vulncheck v0.0.0-20250701160439-9d17a3becb11/go.mod h1:YzgZrlIlnO7fXaQplqHkTfL84i8KGzV+Iwup1eMj2Wg=

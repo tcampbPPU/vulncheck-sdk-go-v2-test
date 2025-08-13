@@ -1,6 +1,18 @@
 test:
 	go test ./...
 
+test-verbose:
+	go test -v ./...
+
+test-coverage:
+	go test -cover ./...
+
+test-cli:
+	go test -v ./pkg/cli
+
+test-bench:
+	go test -bench=. ./pkg/cli
+
 dbug:
 	@go get github.com/dbugapp/dbug-go
 

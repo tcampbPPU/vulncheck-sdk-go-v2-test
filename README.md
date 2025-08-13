@@ -49,6 +49,38 @@ make run FUNC=browse-indexes
 make help
 ```
 
+## Testing
+
+The project includes comprehensive tests for the CLI functionality with 100% code coverage.
+
+### Running Tests
+
+```bash
+# Run all tests
+make test
+
+# Run tests with verbose output
+make test-verbose
+
+# Run tests with coverage information
+make test-coverage
+
+# Run CLI-specific tests
+make test-cli
+
+# Run benchmark tests
+make test-bench
+```
+
+### Test Coverage
+
+- **CLI Package**: 100% statement coverage
+- **Integration Tests**: End-to-end testing with actual binary execution
+- **Performance Tests**: Benchmarks for critical functions
+- **Mock Testing**: Isolated testing without external API calls
+
+See [TESTING.md](TESTING.md) for detailed testing documentation.
+
 ### Examples
 
 ```bash

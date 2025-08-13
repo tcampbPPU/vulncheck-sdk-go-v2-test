@@ -102,7 +102,7 @@ func Run() {
 	command := os.Args[1]
 
 	switch command {
-	case "list", "ls":
+	case "list", "ls", "ll":
 		listFunctions()
 	case "run":
 		if len(os.Args) < 3 {

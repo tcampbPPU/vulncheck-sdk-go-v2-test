@@ -1,6 +1,6 @@
 module github.com/tcampbPPU/sdk-go-v2-test
 
-go 1.24.3
+go 1.25.0
 
 require (
 	github.com/dbugapp/dbug-go v0.1.1

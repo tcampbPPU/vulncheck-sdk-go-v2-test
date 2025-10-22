@@ -50,6 +50,11 @@ var availableFunctions = map[string]TestFunction{
 		Description: "Get Index IP Intel",
 		Function:    index.GetIndexIpIntel,
 	},
+	"index-canary": {
+		Name:        "index-canary",
+		Description: "Get Index Canaries",
+		Function:    index.GetIndexCanaries,
+	},
 	"browse-indexes": {
 		Name:        "browse-indexes",
 		Description: "Browse Indexes",

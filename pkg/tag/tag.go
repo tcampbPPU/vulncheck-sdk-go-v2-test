@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/vulncheck-oss/sdk-go-v2/vulncheck"
+	vulncheck "github.com/vulncheck-oss/sdk-go-v2/v2"
 )
 
 func GetTag() {

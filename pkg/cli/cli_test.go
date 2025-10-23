@@ -359,7 +359,7 @@ func TestFunctionNormalization(t *testing.T) {
 
 // TestFunctionCount ensures we have the expected number of functions
 func TestFunctionCount(t *testing.T) {
-	expectedCount := 13 // Based on the current availableFunctions map
+	expectedCount := 14 // Based on the current availableFunctions map
 	actualCount := len(availableFunctions)
 
 	if actualCount != expectedCount {

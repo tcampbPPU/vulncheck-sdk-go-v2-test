@@ -27,6 +27,7 @@ Use `go run main.go list` to see all available functions, including:
 - `index-cve-filter` - Get Index with CVE Filter
 - `index-botnet-filter` - Get Index with Botnet Filter
 - `index-ip-intel` - Get Index IP Intel
+- `index-canary` - Get Index Canaries
 - `browse-indexes` - Browse Indexes
 - `browse-backups` - Browse Backups
 - `backup` - Get Index Backup
